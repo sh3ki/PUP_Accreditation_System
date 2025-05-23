@@ -1,7 +1,7 @@
 # PUP AACUP Accreditation Management System
 
 ## 🔗 Repository
-[GitHub Repository](https://github.com/Shimofu16/PUP-AACUP.git)
+[GitHub Repository]([https://github.com/sh3ki/PUP_Accreditation_System])
 
 ## 📥 Installation
 ### Prerequisites
